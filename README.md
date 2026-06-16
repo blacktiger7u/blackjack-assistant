@@ -15,4 +15,4 @@ Choose analysis.
 Enter your cards (e.g., K 5 A) and the dealer’s upcard (e.g., 7).
 Read bust probability and HIT/STAND advice.
 ## Status
-Work in progress. Core analysis is functional; OCR and overlay are planned.
+Project abandoned but the core analysis is functional;
